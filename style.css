@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+.H1{
+    color: rgb(255, 255, 255);
+}
+.text{
+color: white;
+}
+
+
+.h1-color{
+    color: yellow;
+}
+
+.h2-color{
+    color: beige;
+}
+
+.body{
+    background-color: rgb(43, 50, 56);
+}
+
+.nav-link{
+    color: rgb(255, 255, 0);
+}
+
+.text-red{
+    color: rgb(255, 255, 0);
+}
+
+footer{
+    height: 120px;
+}
